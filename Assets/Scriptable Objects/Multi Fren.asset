@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33883d53210b3849897251baf86e147, type: 3}
+  m_Name: Multi Fren
+  m_EditorClassIdentifier: 
+  title: Multi Fren
+  description: Gives Xol a friend who multiplies Lotls earned by other Axolotls
+  newSprite: {fileID: 21300000, guid: 8896b11b1c040394f869aa80986c72f3, type: 3}
+  baseCost: 50000
+  baseUpgrade: 0
+  baseAutoUpgrade: 0
+  baseMultiplierUpgrade: 1
